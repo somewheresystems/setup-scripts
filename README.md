@@ -2,6 +2,8 @@
 
 This setup script automates the installation and configuration of various tools and utilities on an Ubuntu 22.04 server. It provides a convenient way to set up a development environment with common dependencies and libraries.
 
+This script can also be accessed via https://www.somewhere.systems/api/utils/setup
+
 ## Features
 
 The setup script performs the following tasks:
