@@ -1,4 +1,3 @@
-```markdown:README.md
 # Ubuntu 22.04 Setup Script
 
 This setup script automates the installation and configuration of various tools and utilities on an Ubuntu 22.04 server. It provides a convenient way to set up a development environment with common dependencies and libraries.
