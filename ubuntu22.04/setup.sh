@@ -57,6 +57,9 @@ sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
 # Install exa
 sudo apt install -y exa
 
+# Install npm
+sudo apt install -y npm
+
 # Set up alias for exa
 echo "alias exa='exa -lah --git --header'" >> ~/.bashrc
 
